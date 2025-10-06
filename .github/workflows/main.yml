@@ -11,9 +11,9 @@ env:
   PYTHON_VERSION: 3.11
   NODE_VERSION: 18
   AZURE_LOCATION: "uksouth"
-  AZURE_RESOURCE_GROUP_NAME: "azure-ml-lee"
-  AZURE_ML_WORKSPACE_NAME: "cats-dogs-lee"
-  AZURE_WEBAPP_NAME: "cats-dogs-lee"
+  AZURE_RESOURCE_GROUP_NAME: "azure-ml-leevan"
+  AZURE_ML_WORKSPACE_NAME: "cats-dogs-leevan"
+  AZURE_WEBAPP_NAME: "cats-dogs-leevan"
   DELETE_WEBAPP: "false"
   DOCKER_API_IMAGE_NAME: "mlopspython-api"
   DOCKER_REPOSITORY: ${{ github.repository_owner }}
